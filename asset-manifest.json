@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Task-add-delete-reminder/static/css/main.6c032fd7.chunk.css",
+    "main.js": "/Task-add-delete-reminder/static/js/main.5e971a2e.chunk.js",
+    "main.js.map": "/Task-add-delete-reminder/static/js/main.5e971a2e.chunk.js.map",
+    "runtime-main.js": "/Task-add-delete-reminder/static/js/runtime-main.a2617808.js",
+    "runtime-main.js.map": "/Task-add-delete-reminder/static/js/runtime-main.a2617808.js.map",
+    "static/js/2.29cd0dd4.chunk.js": "/Task-add-delete-reminder/static/js/2.29cd0dd4.chunk.js",
+    "static/js/2.29cd0dd4.chunk.js.map": "/Task-add-delete-reminder/static/js/2.29cd0dd4.chunk.js.map",
+    "static/js/3.8cd1840e.chunk.js": "/Task-add-delete-reminder/static/js/3.8cd1840e.chunk.js",
+    "static/js/3.8cd1840e.chunk.js.map": "/Task-add-delete-reminder/static/js/3.8cd1840e.chunk.js.map",
+    "index.html": "/Task-add-delete-reminder/index.html",
+    "static/css/main.6c032fd7.chunk.css.map": "/Task-add-delete-reminder/static/css/main.6c032fd7.chunk.css.map",
+    "static/js/2.29cd0dd4.chunk.js.LICENSE.txt": "/Task-add-delete-reminder/static/js/2.29cd0dd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2617808.js",
+    "static/js/2.29cd0dd4.chunk.js",
+    "static/css/main.6c032fd7.chunk.css",
+    "static/js/main.5e971a2e.chunk.js"
+  ]
+}
